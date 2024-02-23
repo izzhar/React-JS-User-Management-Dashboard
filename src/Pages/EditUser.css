@@ -1,0 +1,42 @@
+.edit-user-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .edit-user-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .edit-select {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .edit-submit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .edit-submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .edit-error-message {
+    color: red;
+    margin-top: 10px;
+  }
+      

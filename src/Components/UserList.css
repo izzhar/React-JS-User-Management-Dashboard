@@ -1,0 +1,36 @@
+.user-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .user-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .user-card a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .user-card a:hover {
+    color: #007bff;
+  }
+  
+  .user-card button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .user-card button:hover {
+    background-color: #c82333;
+  }
+  
